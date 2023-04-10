@@ -1,0 +1,2 @@
+https://ahmadluay-forest-fire-prediction.hf.space
+https://huggingface.co/spaces/ahmadluay/forest_fire_prediction
